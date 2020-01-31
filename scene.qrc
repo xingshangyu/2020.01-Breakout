@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/icon.jpg</file>
+        <file>Resources/btn_about.png</file>
+        <file>Resources/btn_help.png</file>
+        <file>Resources/btn_rankings.png</file>
+        <file>Resources/ball.png</file>
+        <file>Resources/big_0.png</file>
+        <file>Resources/big_1.png</file>
+        <file>Resources/multiple.png</file>
+        <file>Resources/stretch_0.png</file>
+        <file>Resources/stretch_1.png</file>
+        <file>Resources/speed_0.png</file>
+        <file>Resources/speed_1.png</file>
+        <file>Resources/background_0.png</file>
+        <file>Resources/background_1.png</file>
+        <file>Resources/background_2.png</file>
+        <file>Resources/penetrate.png</file>
+        <file>Resources/background_3.png</file>
+        <file>Resources/background_4.png</file>
+        <file>Resources/scene.png</file>
+        <file>Resources/btn_start.tif</file>
+    </qresource>
+</RCC>
